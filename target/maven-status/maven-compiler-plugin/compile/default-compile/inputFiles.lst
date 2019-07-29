@@ -1,0 +1,5 @@
+/home/quangcv/IdeaProjects/winecellar/src/main/java/com/winecellar/WinecellarApplication.java
+/home/quangcv/IdeaProjects/winecellar/src/main/java/com/winecellar/domain/Wine.java
+/home/quangcv/IdeaProjects/winecellar/src/main/java/com/winecellar/repository/WineRepository.java
+/home/quangcv/IdeaProjects/winecellar/src/main/java/com/winecellar/controller/WineController.java
+/home/quangcv/IdeaProjects/winecellar/src/main/java/com/winecellar/repository/entity/WineEntity.java

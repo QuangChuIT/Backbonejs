@@ -1,0 +1,7 @@
+com/winecellar/controller/WineController.class
+com/winecellar/RepositoryMonitor.class
+com/winecellar/repository/entity/WineEntity.class
+com/winecellar/RestResponseEntityExceptionHandler.class
+com/winecellar/domain/Wine.class
+com/winecellar/WinecellarApplication.class
+com/winecellar/repository/WineRepository.class
